@@ -1,3 +1,7 @@
+# The code in this file is also contained in the .ipynb file in this directory.
+# It is only duplicated here as well because it runs correctly in a .py file but
+# not a .ipynb file.
+
 import multiprocessing
 import random
 import time
